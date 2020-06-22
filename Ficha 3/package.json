@@ -1,0 +1,17 @@
+{
+  "name": "ficha3",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "keywords": [
+    "ficha3"
+  ],
+  "author": "Cláudio Ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
